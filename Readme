@@ -1,0 +1,19 @@
+# Titanic Data Analysis
+
+Análisis de datos del dataset Titanic usando Python y Pandas.
+
+## Contenido
+- Exploración de datos
+- Limpieza
+- Transformaciones
+- Visualización
+
+## Tecnologías
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+titanic/
+ ├── data/
+ ├── notebooks/
+ └── README.md
