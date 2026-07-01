@@ -1,5 +1,49 @@
 # Titanic Data Analysis
+# Data Analysis Notebooks
 
+Autor: David Jiménez
+
+## Descripción
+
+Repositorio que recopila diferentes prácticas de análisis de datos realizadas con Python utilizando Jupyter Notebook.
+
+El objetivo del proyecto es aprender técnicas de exploración, limpieza, transformación y visualización de datos mediante distintos conjuntos de datos reales.
+
+---
+
+## Contenido
+
+Actualmente incluye ejercicios sobre:
+
+- Exploración de datos (EDA)
+- Limpieza de datos
+- Transformaciones con Pandas
+- Visualización con Matplotlib
+- Visualización con Seaborn
+
+Datasets utilizados:
+
+- Titanic
+- Disney Movies
+- Jobs Dataset
+- Indie Game Developers
+- Video Game Developers
+
+---
+
+## Tecnologías
+
+- Python
+- Jupyter Notebook
+- Pandas
+- Matplotlib
+- Seaborn
+
+---
+
+## Objetivo
+
+Practicar técnicas de análisis de datos y visualización para mejorar el tratamiento de información y la obtención de conclusiones a partir de datasets reales.
 Análisis de datos del dataset Titanic usando Python y Pandas.
 
 ## Contenido
